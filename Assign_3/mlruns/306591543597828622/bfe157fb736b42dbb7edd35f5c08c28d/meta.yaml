@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/306591543597828622/bfe157fb736b42dbb7edd35f5c08c28d/artifacts
+end_time: 1754381551545
+entry_point_name: ''
+experiment_id: '306591543597828622'
+lifecycle_stage: active
+run_id: bfe157fb736b42dbb7edd35f5c08c28d
+run_name: thoughtful-flea-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754381539306
+status: 3
+tags: []
+user_id: saksh
